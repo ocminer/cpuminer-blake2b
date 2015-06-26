@@ -9,6 +9,7 @@ Git tree:   https://github.com/pooler/cpuminer
 Dependencies:
 	libcurl			http://curl.haxx.se/libcurl/
 	jansson			http://www.digip.org/jansson/
+	libb2			https://blake2.net/libb2-0.97.tar.gz
 		(jansson is included in-tree)
 
 Basic *nix build instructions:
